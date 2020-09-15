@@ -1,1 +1,3 @@
 My first work with git
+
+some big chenges
